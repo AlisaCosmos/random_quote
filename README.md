@@ -11,7 +11,6 @@ https://random-quote-inky-ten.vercel.app/
 - React JS;
 - Redux Toolkit
 - Router v6;
-- Redux Toolkit;
 - AJAX;
 - Skeleton;
 - Prettier;
@@ -19,6 +18,6 @@ https://random-quote-inky-ten.vercel.app/
 ### Реализовано в приложении:
 
 - темизация;
-- каркас призагрузке;
+- каркас при призагрузке;
 - отображение рандомной цитаты с использованием API https://forismatic.com/ru/ ;
 - асинхронные экшены В Redux Toolkit (createAsyncThunk), отлавливание ошибок;
