@@ -2,7 +2,7 @@
 
 ### Демо
 
-https:
+https://random-quote-inky-ten.vercel.app/
 
 ### Стек:
 
